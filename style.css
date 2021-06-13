@@ -1,0 +1,86 @@
+.header{
+	height:80px;
+	background-color: red;
+	font-size:20px;
+}
+.nav{
+	height:80px;
+	background-color: green;
+
+
+
+	font-size:20px;
+}
+.wrapper{
+	overflow: hidden
+}
+.contact{
+	float:left;
+	width:40%;
+	height:150px;
+	background-color:#00FF00;
+
+
+	font-size:20px;
+}
+.blog{
+	float:right;
+	width:60%;
+	height:150px;
+	background-color:#FFA500;
+
+	font-size:20px;
+}
+.footer{
+	height:80px;
+	background-color: black;
+	font-size:20px;
+	color:white;
+}
+#layout1{
+	font-size: 50px;
+	color:red;
+}
+.header2{
+	height:80px;
+	background-color: #0000FF;
+	font-size:20px;
+}
+.nav2{
+	height:80px;
+	background-color: #00008B;
+
+
+
+	font-size:20px;
+}
+.wrapper2{
+	overflow: hidden
+}
+.contact2{
+	float:left;
+	width:40%;
+	height:150px;
+	background-color:#00FFFF;
+
+
+	font-size:20px;
+}
+.blog2{
+	float:right;
+	width:60%;
+	height:150px;
+	background-color:#FF00FF;
+
+	font-size:20px;
+}
+.footer2{
+	height:80px;
+	background-color: #808080;
+	font-size:20px;
+	color:white;
+}
+#layout2{
+	font-size: 50px;
+	color:red;
+}
